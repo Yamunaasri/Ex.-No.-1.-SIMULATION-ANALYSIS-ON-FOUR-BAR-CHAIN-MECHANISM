@@ -54,9 +54,10 @@
 
 ## Output:
 
+![image](https://github.com/Yamunaasri/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/115707860/9e7e62b5-b8a4-4da4-b3fa-2797daab3167)
 
-### Name:
-### Register Number: 
+### Name: T S Yamunaasri
+### Register Number: 212222240117
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
